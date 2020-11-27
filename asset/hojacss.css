@@ -1,7 +1,28 @@
-form {
+#formulario {
     margin: 0 auto;
     width: 600px;
     padding: 1em;
-    border: 1px solid #CCC;
+    border: 1px solid salmon;
     border-radius: 1em;
+    background-color: salmon;
+}
+
+body {
+    background-color: #f6ffa6;
+}
+
+#botonsiguiente {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px;
+    background-color: darksalmon;
+}
+
+input {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
 }

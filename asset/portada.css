@@ -1,0 +1,22 @@
+body {
+    background-color: #f6ffa6;
+}
+
+#Titulo {
+    font-size: 23px;
+    color: #110621;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#imagen {
+    background-color: darksalmon;
+    border-collapse: collapse;
+}
+
+img {
+    vertical-align: auto;
+}
